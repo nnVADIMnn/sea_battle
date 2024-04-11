@@ -59,6 +59,14 @@
   background-color: blue;
 }
 
+.damaged{
+  background-color: red;
+}
+
+.miss{
+  background-color: black;
+}
+
 .row:after{
   clear:both;
   content:'';
